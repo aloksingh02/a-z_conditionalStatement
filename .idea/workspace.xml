@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92bb539f-f8f0-4800-9561-806e2c8ac860" name="Changes" comment="Absolute vaue">
-      <change afterPath="$PROJECT_DIR$/src/Condtional_profitLoss.java" afterDir="false" />
+    <list default="true" id="92bb539f-f8f0-4800-9561-806e2c8ac860" name="Changes" comment="profit and lose">
+      <change afterPath="$PROJECT_DIR$/src/Conditional_areaPerimeter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,9 +37,16 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_conditionalStatements/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Condtional_profitLoss">
+  <component name="RunManager" selected="Application.Conditional_areaPerimeter">
     <configuration name="Condition_absoluteValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Condition_absoluteValue" />
+      <module name="a-z_conditionalStatements" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Conditional_areaPerimeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditional_areaPerimeter" />
       <module name="a-z_conditionalStatements" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,13 +66,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Conditional_oddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional_oddEven" />
-      <module name="a-z_conditionalStatements" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Condtional_profitLoss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Condtional_profitLoss" />
       <module name="a-z_conditionalStatements" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Conditional_areaPerimeter" />
         <item itemvalue="Application.Condtional_profitLoss" />
         <item itemvalue="Application.Condition_absoluteValue" />
         <item itemvalue="Application.Conditional_leapYear" />
         <item itemvalue="Application.Conditional_divisibleBy5" />
-        <item itemvalue="Application.Conditional_oddEven" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746383173549</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="profit and lose">
+      <option name="closed" value="true" />
+      <created>1746384848065</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746384848065</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,6 +160,7 @@
     <MESSAGE value="Divisible by 5 or not" />
     <MESSAGE value="Leap year or not" />
     <MESSAGE value="Absolute vaue" />
-    <option name="LAST_COMMIT_MESSAGE" value="Absolute vaue" />
+    <MESSAGE value="profit and lose" />
+    <option name="LAST_COMMIT_MESSAGE" value="profit and lose" />
   </component>
 </project>
