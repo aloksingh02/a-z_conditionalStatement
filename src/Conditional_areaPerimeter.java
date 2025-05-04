@@ -15,10 +15,13 @@ public class Conditional_areaPerimeter {
             float size1 = area-perimeter;
             System.out.println(size1);
         }
-        else{
-            System.out.println("perimeter is greater by: ");
+        else if(perimeter > area){
+            System.out.print("perimeter is greater by: ");
             float size2 = perimeter-area;
             System.out.println(size2);
+        }
+        else{
+            System.out.println("both are equal");
         }
     }
 }

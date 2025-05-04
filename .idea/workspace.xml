@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92bb539f-f8f0-4800-9561-806e2c8ac860" name="Changes" comment="profit and lose">
-      <change afterPath="$PROJECT_DIR$/src/Conditional_areaPerimeter.java" afterDir="false" />
+    <list default="true" id="92bb539f-f8f0-4800-9561-806e2c8ac860" name="Changes" comment="is area is greater or perimeter is greater">
+      <change afterPath="$PROJECT_DIR$/src/Conditional_percentageCategories.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Conditional_areaPerimeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Conditional_areaPerimeter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_conditionalStatements/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Conditional_areaPerimeter">
+  <component name="RunManager" selected="Application.Conditional_percentageCategories">
     <configuration name="Condition_absoluteValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Condition_absoluteValue" />
       <module name="a-z_conditionalStatements" />
@@ -52,15 +53,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Conditional_divisibleBy5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional_divisibleBy5" />
+    <configuration name="Conditional_leapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditional_leapYear" />
       <module name="a-z_conditionalStatements" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Conditional_leapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional_leapYear" />
+    <configuration name="Conditional_percentageCategories" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditional_percentageCategories" />
       <module name="a-z_conditionalStatements" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Conditional_percentageCategories" />
         <item itemvalue="Application.Conditional_areaPerimeter" />
         <item itemvalue="Application.Condtional_profitLoss" />
         <item itemvalue="Application.Condition_absoluteValue" />
         <item itemvalue="Application.Conditional_leapYear" />
-        <item itemvalue="Application.Conditional_divisibleBy5" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746384848065</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="is area is greater or perimeter is greater">
+      <option name="closed" value="true" />
+      <created>1746386514242</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1746386514242</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,6 +170,7 @@
     <MESSAGE value="Leap year or not" />
     <MESSAGE value="Absolute vaue" />
     <MESSAGE value="profit and lose" />
-    <option name="LAST_COMMIT_MESSAGE" value="profit and lose" />
+    <MESSAGE value="is area is greater or perimeter is greater" />
+    <option name="LAST_COMMIT_MESSAGE" value="is area is greater or perimeter is greater" />
   </component>
 </project>
