@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92bb539f-f8f0-4800-9561-806e2c8ac860" name="Changes" comment="Number is divisible by 3 or 5">
-      <change afterPath="$PROJECT_DIR$/src/Conditional_greaterAmong3.java" afterDir="false" />
+    <list default="true" id="92bb539f-f8f0-4800-9561-806e2c8ac860" name="Changes" comment="greater number among 3 number">
+      <change afterPath="$PROJECT_DIR$/src/Conditional_yongestAmongThree.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_conditionalStatements/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Conditional_greaterAmong3">
+  <component name="RunManager" selected="Application.Conditional_yongestAmongThree">
     <configuration name="Conditional_divisibleBy3And5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Conditional_divisibleBy3And5" />
       <module name="a-z_conditionalStatements" />
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Conditional_twoDigitNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional_twoDigitNumber" />
+    <configuration name="Conditional_yongestAmongThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditional_yongestAmongThree" />
       <module name="a-z_conditionalStatements" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Conditional_yongestAmongThree" />
         <item itemvalue="Application.Conditional_greaterAmong3" />
         <item itemvalue="Application.Conditional_divisibleBy5Or3" />
         <item itemvalue="Application.Conditional_divisibleBy5Not3" />
         <item itemvalue="Application.Conditional_divisibleBy3And5" />
-        <item itemvalue="Application.Conditional_twoDigitNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +195,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746430038972</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Greater number among 3">
+      <option name="closed" value="true" />
+      <created>1746430380268</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1746430380268</updated>
+    </task>
+    <task id="LOCAL-00015" summary="greater number among 3 number">
+      <option name="closed" value="true" />
+      <created>1746430584439</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1746430584439</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +240,8 @@
     <MESSAGE value="divisible by 3 and 5, also individual" />
     <MESSAGE value="it is divisible by 5 not with 3" />
     <MESSAGE value="Number is divisible by 3 or 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Number is divisible by 3 or 5" />
+    <MESSAGE value="Greater number among 3" />
+    <MESSAGE value="greater number among 3 number" />
+    <option name="LAST_COMMIT_MESSAGE" value="greater number among 3 number" />
   </component>
 </project>
