@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92bb539f-f8f0-4800-9561-806e2c8ac860" name="Changes" comment="marks and its categories">
-      <change afterPath="$PROJECT_DIR$/src/Conditional_threeDigitNumber.java" afterDir="false" />
+    <list default="true" id="92bb539f-f8f0-4800-9561-806e2c8ac860" name="Changes" comment="2 digit number">
+      <change afterPath="$PROJECT_DIR$/src/Conditional_divisibleBy3And5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,9 +37,16 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_conditionalStatements/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Conditional_twoDigitNumber">
+  <component name="RunManager" selected="Application.Conditional_divisibleBy3And5">
     <configuration name="Conditional_areaPerimeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Conditional_areaPerimeter" />
+      <module name="a-z_conditionalStatements" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Conditional_divisibleBy3And5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditional_divisibleBy3And5" />
       <module name="a-z_conditionalStatements" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,20 +73,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Condtional_profitLoss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Condtional_profitLoss" />
-      <module name="a-z_conditionalStatements" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Conditional_divisibleBy3And5" />
         <item itemvalue="Application.Conditional_twoDigitNumber" />
         <item itemvalue="Application.Conditional_threeDigitNumber" />
         <item itemvalue="Application.Conditional_percentageCategories" />
         <item itemvalue="Application.Conditional_areaPerimeter" />
-        <item itemvalue="Application.Condtional_profitLoss" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +156,23 @@
       <option name="project" value="LOCAL" />
       <updated>1746388728940</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="give number is 3 digit or not">
+      <option name="closed" value="true" />
+      <created>1746426874995</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1746426874995</updated>
+    </task>
+    <task id="LOCAL-00010" summary="2 digit number">
+      <option name="closed" value="true" />
+      <created>1746427129733</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1746427129733</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +195,8 @@
     <MESSAGE value="profit and lose" />
     <MESSAGE value="is area is greater or perimeter is greater" />
     <MESSAGE value="marks and its categories" />
-    <option name="LAST_COMMIT_MESSAGE" value="marks and its categories" />
+    <MESSAGE value="give number is 3 digit or not" />
+    <MESSAGE value="2 digit number" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 digit number" />
   </component>
 </project>
