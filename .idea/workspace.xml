@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92bb539f-f8f0-4800-9561-806e2c8ac860" name="Changes" comment="2 digit number">
-      <change afterPath="$PROJECT_DIR$/src/Conditional_divisibleBy3And5.java" afterDir="false" />
+    <list default="true" id="92bb539f-f8f0-4800-9561-806e2c8ac860" name="Changes" comment="divisible by 3 and 5, also individual">
+      <change afterPath="$PROJECT_DIR$/src/Conditional_divisibleBy5Not3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,16 +37,16 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_conditionalStatements/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Conditional_divisibleBy3And5">
-    <configuration name="Conditional_areaPerimeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional_areaPerimeter" />
+  <component name="RunManager" selected="Application.Conditional_divisibleBy5Not3">
+    <configuration name="Conditional_divisibleBy3And5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditional_divisibleBy3And5" />
       <module name="a-z_conditionalStatements" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Conditional_divisibleBy3And5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditional_divisibleBy3And5" />
+    <configuration name="Conditional_divisibleBy5Not3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditional_divisibleBy5Not3" />
       <module name="a-z_conditionalStatements" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Conditional_divisibleBy5Not3" />
         <item itemvalue="Application.Conditional_divisibleBy3And5" />
         <item itemvalue="Application.Conditional_twoDigitNumber" />
         <item itemvalue="Application.Conditional_threeDigitNumber" />
         <item itemvalue="Application.Conditional_percentageCategories" />
-        <item itemvalue="Application.Conditional_areaPerimeter" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746427129733</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="divisible by 3 and 5, also individual">
+      <option name="closed" value="true" />
+      <created>1746428179461</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1746428179461</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -197,6 +205,8 @@
     <MESSAGE value="marks and its categories" />
     <MESSAGE value="give number is 3 digit or not" />
     <MESSAGE value="2 digit number" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 digit number" />
+    <MESSAGE value="divisible by 3 and 5 also individual" />
+    <MESSAGE value="divisible by 3 and 5, also individual" />
+    <option name="LAST_COMMIT_MESSAGE" value="divisible by 3 and 5, also individual" />
   </component>
 </project>
