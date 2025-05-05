@@ -37,14 +37,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Asus/IdeaProjects/a-z_conditionalStatements/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Conditional_threeDigitNumber">
-    <configuration name="Condition_absoluteValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Condition_absoluteValue" />
-      <module name="a-z_conditionalStatements" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Conditional_twoDigitNumber">
     <configuration name="Conditional_areaPerimeter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Conditional_areaPerimeter" />
       <module name="a-z_conditionalStatements" />
@@ -66,6 +59,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Conditional_twoDigitNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Conditional_twoDigitNumber" />
+      <module name="a-z_conditionalStatements" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Condtional_profitLoss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Condtional_profitLoss" />
       <module name="a-z_conditionalStatements" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Conditional_twoDigitNumber" />
         <item itemvalue="Application.Conditional_threeDigitNumber" />
         <item itemvalue="Application.Conditional_percentageCategories" />
         <item itemvalue="Application.Conditional_areaPerimeter" />
         <item itemvalue="Application.Condtional_profitLoss" />
-        <item itemvalue="Application.Condition_absoluteValue" />
       </list>
     </recent_temporary>
   </component>
